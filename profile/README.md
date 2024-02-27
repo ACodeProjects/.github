@@ -1,9 +1,9 @@
-## Hi there 👋
 <div align="center">
     <h1>Hi there👋</h1>
 </div>
 <div align="center">
-    <h3>ACodeProjects is a one-man organization made by <a href="https://github.com/@0SGames">solo dev.<a><br>
+    <h3>ACodeProjects is a one-man group of useful projects.<br>
+        All of those projects are made by a <a href="https://github.com/@0SGames">solo dev.<a><br>
     </h3>
 </div>
 
@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <img alt="visitor badge" src="https://visitor-badge.lithub.cc/badge?page_id=0SGames.TerminalMusic"/>
+  <img alt="visitor badge" src="https://visitor-badge.lithub.cc/badge?page_id=ACodeProjects..github"/>
   <img alt="Rust release" src="https://img.shields.io/github/v/release/rust-lang/rust?logo=rust&color=red">
 </p>
 
 <div align="center">
-    <h4>Different languages are supported as well!<br>
+    <h4>All projects here support different languages.<br>
     See the list <a href="https://github.com/0SGames/TerminalMusic/tree/main/Languages">here</a>.</h4>
 </div>
 
@@ -27,11 +27,11 @@
 </div>
 
 <div align="center">
-    <h6>The Rust logo used in the release badge are copyrighted under,<br>
+    <h6>The Rust logo used in the release badge is copyrighted under,<br>
         <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution license (CC-BY)</a>.<br>
     All copywriting and trademarks go to the <a href="https://foundation.rust-lang.org">Rust Foundation</a>.<br>
-    Please contact me if you have any legal issues related to this repository.<br>
-    © ObvBeans</h6>
+    Please contact me if you have any legal issues related to these projects.<br>
+    © Beans 2023 - 2024</h6>
 </div>
 
 <!--
