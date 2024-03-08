@@ -23,7 +23,7 @@
 
 <div align="center">
     <h3>Want to know how to use it?<br>
-    Try the <a href="https://github.com/0SGames/TerminalMusic/wiki">Wiki</a>.</h3>
+    Try the repository wikis.</h3>
 </div>
 
 <div align="center">
